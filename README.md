@@ -1,0 +1,2 @@
+# FuckTranslate
+Translation extension
